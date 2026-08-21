@@ -13,9 +13,7 @@
     "lazyvim.plugins.extras.lang.scala",
     "lazyvim.plugins.extras.lang.sql",
     "lazyvim.plugins.extras.lang.terraform",
-    "lazyvim.plugins.extras.lang.yaml",
-    "lazyvim.plugins.extras.ui.mini-animate",
-    "lazyvim.plugins.extras.ui.smear-cursor"
+    "lazyvim.plugins.extras.lang.yaml"
   ],
   "install_version": 8,
   "news": {
